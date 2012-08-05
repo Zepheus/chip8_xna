@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chip8", "Chip8\Chip8\Chip8.csproj", "{DC8EFF58-5D19-4F06-B6A8-2C6D085703DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chip8Content", "Chip8\Chip8Content\Chip8Content.contentproj", "{53542C26-FE85-424D-B233-8E5B4917B817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8EFF58-5D19-4F06-B6A8-2C6D085703DE}.Debug|x86.ActiveCfg = Debug|x86
+		{DC8EFF58-5D19-4F06-B6A8-2C6D085703DE}.Debug|x86.Build.0 = Debug|x86
+		{DC8EFF58-5D19-4F06-B6A8-2C6D085703DE}.Release|x86.ActiveCfg = Release|x86
+		{DC8EFF58-5D19-4F06-B6A8-2C6D085703DE}.Release|x86.Build.0 = Release|x86
+		{53542C26-FE85-424D-B233-8E5B4917B817}.Debug|x86.ActiveCfg = Debug|x86
+		{53542C26-FE85-424D-B233-8E5B4917B817}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
